@@ -1,7 +1,7 @@
 # ABCs (Adaptive Branching through Child Stationarity)
 
-This is the official repository for the paper: <strong>Easy as ABCs: Unifying Boltzmann Q-Learning and Counterfactual Regret
-Minimization</strong>. 
+This is the official repository for the paper: <strong>[Easy as ABCs: Unifying Boltzmann Q-Learning and Counterfactual Regret
+Minimization](https://arxiv.org/abs/2402.11835)</strong>. 
 
 ABCs is a best-of-both-worlds algorithm combining Boltzmann Q-learning (BQL), a classic reinforcement learning algorithm for single-agent domains, and counterfactual regret minimization (CFR), a central algorithm for learning
 in multi-agent domains. ABCs adaptively chooses what fraction of the environment to explore each iteration by measuring the stationarity of the environment’s reward and transition
